@@ -9,10 +9,10 @@ Some examples would be:
 * and more ...
 
 ## Tutorials Available
-1. [How to ssh to your server?](/tutorials/how-to-ssh)
-2. [How to connect VS-Code to the QCRI server?](/tutorials/connect-vs-code-to-server)
-3. [How to install Python without Sudo access](/tutorials/install-python-without-sudo)
-4. [How to install Pip without Sudo access](/tutorials/install-pip-without-sudo)
+1. [How to ssh to your server?](/tutorials/how-to-ssh.md)
+2. [How to connect VS-Code to the QCRI server?](/tutorials/connect-vs-code-to-server.md)
+3. [How to install Python without Sudo access](/tutorials/install-python-without-sudo.md)
+4. [How to install Pip without Sudo access](/tutorials/install-pip-without-sudo.md)
 
 ## Upcoming Tutorials
 1. How to make a docker container on the QCRI server?
