@@ -18,7 +18,6 @@ Some examples would be:
 1. How to make a docker container on the QCRI server?
 
 
-
 # How to Contribute?
 
 If you want to contribute to this project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to mkae constructive, helpful bug reports, feature requests and the noblest of all contributionsL a good, clean pull request.
@@ -42,9 +41,11 @@ If you want to contribute to this project and make it better, your help is very 
 your extra branch(es).
 
 And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
- 
-
-
-**NOTE: Please DO NOT under any circumstance put any sensitive data on any of your pull requests. This is to protect the organization and the other interns.**
 
 Thank you :blush:.
+ 
+===================
+
+## Warning:exclamation:
+
+**NOTE: Please DO NOT under any circumstance put any sensitive data on any of your pull requests. This is to protect the organization and the other interns.**
