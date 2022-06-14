@@ -16,6 +16,13 @@ Some examples would be:
 
 ## Upcoming Tutorials
 1. How to make a docker container on the QCRI server?
+2. How to sign into github on the server?
+3. How to see which ports are open on the server?
+4. How to see which docker user group you belong to on the server?
+5. Some recommended VS Code extensions to use.
+6. Some essential terminal commands.
+7. How to customize your terminal. 
+
 
 
 # How to Contribute?
