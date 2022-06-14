@@ -44,7 +44,7 @@ And last but not least: Always write your commit messages in the present tense. 
 
 Thank you :blush:.
  
-===================
+
 
 ## Warning:exclamation:
 
