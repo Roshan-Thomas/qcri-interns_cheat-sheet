@@ -33,4 +33,4 @@ Check out [CONTRIBUTION](CONTRIBUTION.md) to see how to make a good pull request
 
 ## Warning:exclamation:
 
-**NOTE: Please DO NOT under any circumstance put any sensitive data on any of your pull requests. This is to protect the organization and the other interns.**
+**Please DO NOT under any circumstance put any sensitive data on any of your pull requests. This is to protect the organization and the other interns.**
