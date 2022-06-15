@@ -1,6 +1,6 @@
 # QCRI Interns Cheat Sheet
 
-This document is to put your little snippets on information that you learnt during the course of the internship that you feel would be beneficial to others or to the inters who would be coming next year. 
+This repo is to put your little snippets on information that you learnt during the course of the internship that you feel would be beneficial to others or to the interns who would be coming next year. 
 
 Some examples would be:
 
