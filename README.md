@@ -27,10 +27,14 @@ Some examples would be:
 
 # How to Contribute?
 
-If you want to contribute to this project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to mkae constructive, helpful bug reports, feature requests and the noblest of all contributionsL a good, clean pull request.
+If you want to contribute to this project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to mkae constructive, helpful bug reports, feature requests and the noblest of all contributions a good, clean pull request.
+
+To make a new tutorial, create an issue describing the tutorial you are going to make, it will be assigned to you and then work on that issue. Once you are done make a pull request to the repo.
 
 Check out [CONTRIBUTION](CONTRIBUTION.md) to see how to make a good pull request. 
 
 ## Warning:exclamation:
 
 **Please DO NOT under any circumstance put any sensitive data on any of your pull requests. This is to protect the organization and the other interns.**
+
+Thank you :blush:
