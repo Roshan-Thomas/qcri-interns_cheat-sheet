@@ -9,10 +9,16 @@ Some examples would be:
 * and more ...
 
 ## Tutorials Available
+
+### Server/Shell Tutorials
 1. [How to ssh to your server?](/tutorials/how-to-ssh.md)
 2. [How to connect VS-Code to the QCRI server?](/tutorials/connect-vs-code-to-server.md)
 3. [How to install Python without Sudo access?](/tutorials/install-python-without-sudo.md)
 4. [How to install Pip without Sudo access?](/tutorials/install-pip-without-sudo.md)
+5. [How to run processes in the background in Linux/Mac OS?](/tutorials/run-processes-in-background.md)
+
+### Docker Tutorials
+1. [How to run a docker container in the background?](/tutorials/run-docker-container-in-background.md)
 
 ## Upcoming Tutorials
 1. How to make a docker container on the QCRI server?
